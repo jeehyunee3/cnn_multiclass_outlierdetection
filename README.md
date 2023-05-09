@@ -43,6 +43,7 @@
 [MVTec Anomaly Detection Dataset: MVTec Software](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 
 **[데이터 수]**
+
 ![enter image description here](https://user-images.githubusercontent.com/72274498/236992664-9974aff6-a9ae-459d-bb66-04b756f2726e.png)
 
 <br/>
