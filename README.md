@@ -10,6 +10,7 @@
 
 ## Research Objective
 **1.단층적 CNN과 계층적 CNN을 통한 Supervised 이상치 탐지**
+
 **2. 효과적인 클래스 분할 방식 탐구 
 	  (K-means clustering vs GMM clustering vs Hierarchical clustering)**
 
