@@ -40,6 +40,7 @@
 
 ## DATA
 본 연구에서는 **MVTec**에서 제공하는 **MVTec-AD (Anomaly Detection)** 데이터 셋을 이용하였습니다. 
+
 [MVTec Anomaly Detection Dataset: MVTec Software](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 
 **[데이터 수]**
